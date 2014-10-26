@@ -2,6 +2,7 @@ Creating curriculum and plotting down ideas
 =====
 
 Kindergarten (beginning at age 3)
+=====
 
 Personal, emotional and social development
 
@@ -43,8 +44,62 @@ Creative development
      learning by drawing, painting and other forms of art
      interpreting, experimenting, and representing
      learning colors, shapes, textures and space
+     music
      
 Understanding the world around
 
      going outside and learning about plants, animals and so much more
      investigating, observing, predicting and asking questions
+
+Grade school
+=====
+
+Subjects
+
+Math
+
+     Adding, subtracting, mulitplying, division, patterns, shapes
+Computers
+
+     Beginning basic understanding of computers with user interface
+     Typing and word processing
+     Using software tied in with other subjects in a fun way
+English
+
+     Learning spelling, reading, comprehension, literature, language and poetry
+Physical Education
+
+     Indroduction to many different sports such as dance, soccer, and gymnastics
+Secondary language
+
+Art/Design
+
+     Craft and design
+Music
+
+     Performance, creativity and listening
+     Learn how to play a musical instrument as well as the many types of musical instruments
+Drama
+
+History
+
+     Learning about local heritage
+Geography
+
+     Learning about rivers, weather, environmental changes, map skills, transport, climate, global location
+Science
+
+     Study of life processes. Humans as living organisms, plants as organisms, living organisms and their envirement
+     grouping and changing materials
+     electricity
+     forces and motion
+     light and sound
+     the earth and beyond
+Citizenship
+
+     Learn about money, safety, government, current affairs, health and hygiene
+Religious Education
+
+     Learning about the world around them
+     Asking questions
+     Meditation
