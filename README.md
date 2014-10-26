@@ -1,7 +1,7 @@
 Creating curriculum and plotting down ideas
 =====
 
-Kindergarten
+Kindergarten (beginning at age 3)
 
 Personal, emotional and social development
 
